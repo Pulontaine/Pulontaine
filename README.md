@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! My name is Varaksin Ivan. I'm a passionate developer from **Moscow, Russia**. I enjoy exploring various programming languages and technologies, and I'm always eager to learn something new.
+My name is Varaksin Ivan. I'm a passionate developer from **Moscow, Russia**. I enjoy exploring various programming languages and technologies, and I'm always eager to learn something new.
 
 ## 💻 Skills & Technologies
 - **Languages**: Go, Python, C++, Julia, C#
